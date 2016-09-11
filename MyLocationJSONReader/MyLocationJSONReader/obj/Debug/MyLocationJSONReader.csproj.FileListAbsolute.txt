@@ -1,0 +1,9 @@
+F:\Visual Studio Projects\MyLocationJSONReader\MyLocationJSONReader\bin\Debug\MyLocationJSONReader.exe.config
+F:\Visual Studio Projects\MyLocationJSONReader\MyLocationJSONReader\bin\Debug\MyLocationJSONReader.exe
+F:\Visual Studio Projects\MyLocationJSONReader\MyLocationJSONReader\bin\Debug\MyLocationJSONReader.pdb
+F:\Visual Studio Projects\MyLocationJSONReader\MyLocationJSONReader\obj\Debug\MyLocationJSONReader.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\MyLocationJSONReader\MyLocationJSONReader\obj\Debug\MyLocationJSONReader.Form1.resources
+F:\Visual Studio Projects\MyLocationJSONReader\MyLocationJSONReader\obj\Debug\MyLocationJSONReader.Properties.Resources.resources
+F:\Visual Studio Projects\MyLocationJSONReader\MyLocationJSONReader\obj\Debug\MyLocationJSONReader.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\MyLocationJSONReader\MyLocationJSONReader\obj\Debug\MyLocationJSONReader.exe
+F:\Visual Studio Projects\MyLocationJSONReader\MyLocationJSONReader\obj\Debug\MyLocationJSONReader.pdb
